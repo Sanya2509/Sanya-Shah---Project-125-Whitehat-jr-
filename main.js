@@ -20,7 +20,7 @@ function draw(){
     document.getElementById("font_size").innerHTML="font size of the text will be ="+difference+"px";
     textSize(difference);
     fill("#0000FF");
-    text('Sanya',40,300);
+    text('Sanya Shah',40,300);
 
 }
 
